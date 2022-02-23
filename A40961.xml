@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a gentleman to the Honourable Ed. Howard, esq occasioned by a civiliz'd epistle of Mr. Dryden's, before his second edition of his Indian emperovr.</title>
+            <author>R. F.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40961</idno>
+            <idno type="STC">Wing F52</idno>
+            <idno type="STC">ESTC R31485</idno>
+            <idno type="EEBO-CITATION">12010887</idno>
+            <idno type="OCLC">ocm 12010887</idno>
+            <idno type="VID">52411</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40961)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52411)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1009:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a gentleman to the Honourable Ed. Howard, esq occasioned by a civiliz'd epistle of Mr. Dryden's, before his second edition of his Indian emperovr.</title>
+                  <author>R. F.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Newcomb,</publisher>
+                  <pubPlace>[London] In the Savoy :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 12: R.F.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dryden, John, 1631-1700. --  Indian emperour.</term>
+               <term>Howard, Edward, fl. 1669.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52411:1" rendition="simple:additions"/>
+            <p>A LETTER FROM A GENTLEMAN To the <hi>Honourable</hi> Ed. Howard <abbr>Eſq</abbr> Occaſioned By a <hi>CIVILIZ'D EPISTLE</hi> OF Mr. DRYDEN'S, Before his Second Edition of his <hi>INDIAN EMPERO<g ref="char:V">Ʋ</g>R.</hi>
+            </p>
+            <p>In the <hi>SAVOY,</hi> Printed by <hi>Thomas Newcomb,</hi> 1668.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:52411:2"/>
+            <pb n="1" facs="tcp:52411:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have now for ſome time expected an Anſwer from your Honorable Brother, Sir <hi>Robert Howard,</hi> to Mr. <hi>Drydens</hi> Epiſtle before his <hi>Indian Emperour;</hi> But I perceive that your Brother thinks it unworthy of his Thoughts; nor can any Ingenious Perſon blame Him, that He rather deſpiſes to give Himſelf the leaſt Trouble, where nothing of any weight of Reaſon can juſtly challenge it; and beſides, poſſibly being conſcious to Himſelf, that he could not ſo well make a Return in a <hi>Billinſgate</hi> ſtile, which he ſaw ſo exactly performed by his Angry Opponent. But leaſt Sir, that ſcold ng Text ſhould want a Commentary, I humbly offer unto you theſe my Obſervations upon it, and will make no Excuſe for my own weakneſs, ſince the Cauſe it ſelf affords Abilities e<g ref="char:EOLhyphen"/>nough to any that has a juſt Reſpect to the peculiar Ho<g ref="char:EOLhyphen"/>nour of your Brother, and a General Love to Juſtice, and Good Manners.</p>
+            <p>But having called this Angry Author, Mr. <hi>Dryden,</hi> and <hi>He</hi> having been diſpleaſed before with that Honourable Perſon for calling <hi>Him</hi> an Author; I will rectifie both Er<g ref="char:EOLhyphen"/>rors,
+<pb n="2" facs="tcp:52411:3"/>
+and try to Pleaſe him (being a wrathfull man with the Title of an Eſquire, which he Beſtows on Himſelf, or modeſtly endures his Bookſeller to put upon him; yet withall hoping he can prove it better by the Heraulds than he has done the Reſt; I proceed Sir, to take notice, that the Squire having fixed ſome Ironical Complements upon that Honourable Perſon your Brother, inſtead of the Cauſe he is to maintain, he takes notice of two verſes in the beginning of the <hi>Duke of Lerma,</hi> for which he would have him loſe the opinion of ſober men, as it ſeems he has done His; not that it is a Conſequence, that he ſhould loſe any worthy mans Good opinion for the Squires Ill one, who perhaps not ſo well able to defend his own Paradoxes, is diſordered with ſo much paſſion, which ſo confounds his expreſſions, that I know not what he is moſt angry at. If he means the Two firſt Lines, and the other Twenty, (which he glances at) are Nonſenſe, or Ill ones; the Rea<g ref="char:EOLhyphen"/>der is the beſt Judge, and he only ſaying they are ſo, it is enough to ſay I think they are not ſo: But if the Squire would have it underſtood, that the Honourable Perſon uſed ſome things in the old Play, he has acknowledged it already, and profeſſed he would have uſed more, had not the Alteration of the whole deſign deprived him of the Benefit. But the Squire having writ down the two firſt lynes, what ever he means, I that have read the old Play will aſſure him, that the Honourable Perſon uſed but the two firſt words of it, though he has preſerved the method in the beginning. But the Squire perhaps is juſtly angry to ſee any one uſe the leaſt thing of another Writer, and enter into his Juriſdiction, claiming the right of Theft per<g ref="char:EOLhyphen"/>haps by continual Cuſtome; witneſs his <hi>Maiden Queen</hi> ſtoln out of the <hi>Queen of Corinth:</hi> a great part of his <hi>Indian Emperour,</hi> and moſt of his <hi>Mock Aſtrologer,</hi> which he means (for he is a Critick) the <hi>Feign'd Aſtrologer</hi> out of <hi>French</hi> Playes and Romances; from whence I cannot but obſerve
+<pb n="3" facs="tcp:52411:3"/>
+that he is in danger to be thought an ill-natur'd Squire; ſince the Charactor of an Ingroſſing Plagiary may poſſibly be more juſtly due to him than the Title of Eſquire, which he has been pleaſed to aſſume.</p>
+            <p>The next thing Sir, that I ſhall take notice of, is his admiration, to be thought ſo ridiculous as to diſpute whe<g ref="char:EOLhyphen"/>ther Proſe or Verſe be neereſt to ordinary Converſation; by the Squires favour the Honourable Perſon never ſaid ſo, but only preſum'd to ſay, that a Play ſeemed to repre<g ref="char:EOLhyphen"/>ſent Perſons ſpeaking <hi>Extempore,</hi> which indeed is ordina<g ref="char:EOLhyphen"/>ry Converſation, and then acknowledged that the Squire raiſed Arguments only unanſwerable againſt himſelf, by laying down the rule for every thing, to be neereſt the na<g ref="char:EOLhyphen"/>ture of what it repreſents: And I hope this is no fault in the Honourable Perſon, who never contended for the Rule; ſo that as to this Particular, I think there needs no more to be ſayd, only adding this ſmall obſervation, that the Squire cannot endure to be thought Ridiculous, though he deſerves it.</p>
+            <p>The Squire is then pleaſed to tell us of a Gentleman, who maintained a Contradiction in the face of 300 Per<g ref="char:EOLhyphen"/>ſons; when he will vouchſafe to tell us the Perſon and Contradiction, the Party I ſuppoſe will give an anſwer; which by what I have heard, I believe none can be igno<g ref="char:EOLhyphen"/>rant, that Honourable Perſon can as little as any be ſuſ<g ref="char:EOLhyphen"/>pected to be the Party; and yet I dare not ſay ſo much for him, as the Squire once ventur'd to ſay on his own behalf to a Lady of moſt Eminent Quality (equall'd with a great Virtue and Parts) when he was ſo bold, as to tell her, a Gentleman could not erre, and then certainly a Squire is in<g ref="char:EOLhyphen"/>fallible.</p>
+            <p>After this he ſeems ſatisfied, that the Honourable Perſon ſayes he had rather read good Verſe than Proſe; I believe he had and rather his, than his Proſe, unleſs it were writ<g ref="char:EOLhyphen"/>ten with a better temper; but the Squire demands no more
+<pb n="4" facs="tcp:52411:4"/>
+than This from all others, I am his Interceſſer, he may ob<g ref="char:EOLhyphen"/>tain his deſire; and leave it to them that are pleaſed to grant it, to judge, whether they have better'd his Argu<g ref="char:EOLhyphen"/>ments by their Affections.</p>
+            <p>Next he urges, that a Play is ſuppoſed to be the work of a Poet, imitating or repreſenting the Converſation of ſeveral perſons; the words of the Honorable Perſon, juſt be<g ref="char:EOLhyphen"/>fore, (which he quotes, and quarrels at) are, That a Play is ſuppoſed to be a Compoſition of ſeveral perſons ſpeaking <hi>extempore,</hi> and yet the Squire craves leave to diſſent, though he ſayes the ſame thing, all but the word <hi>Extem<g ref="char:EOLhyphen"/>pore.</hi> And if there be any otherway of Converſation, 'tis on<g ref="char:EOLhyphen"/>ly known to the Squire, who has the ſharpneſs to ſee a difference in the ſame thing.</p>
+            <p>But now the Squire ſayes he will be bolder, (truely I thought he had been bold enough before) and doubts not to make good a Paradox: for having ſaid, that all things muſt be neereſt the nature of what they repreſent; he is turn'd about now, and ſayes Proſe ſhould not be uſed, be<g ref="char:EOLhyphen"/>cauſe it is too neer Converſe, which is the nature of what it repreſents. I ſuppoſe the Squire had need of a Legion of Parts (which he ſpeaks of) to maintain this: for ſome<g ref="char:EOLhyphen"/>times every thing is beſt, that is neereſt the nature of what it repreſents; and preſently it is the worſe for being too neer it; and then as luckily proceeds to tell us, that the moſt skilfull Painters affirm, there may be too great a likeneſs, and too neer a reſemblance in a Picture; I am very confident the Squire never heard an indifferent good Painter, much leſs an excellent one, affirme ſo ridiculous a thing: but to ſalve his credit in this, he is left to bring (if he can) ſuch a Certificate from ſo excellent a Painter, whoſe great Au<g ref="char:EOLhyphen"/>thority may make us ſubmit our ſence ſo far as to believe the Paradox: But were Sir <hi>Anthony Vandyke</hi> now living (who I ſuppoſe we may allow to have been excellent in that Art) the Squire would hardly get a Certificate from
+<pb n="5" facs="tcp:52411:4"/>
+him, whoſe Fame, if it be true what he ſayes, he has blaſted in one ſentence, for he has proved him to make worſe Pi<g ref="char:EOLhyphen"/>ctures than any, becauſe he made all more exactly like, then ever any man did. But I leave the perſuit of ſuch abſurdities, nor do I pretend to dwell upon his Reaſons, where the honorable Perſon repeats his, and only fairly re<g ref="char:EOLhyphen"/>turns his own, I leave them to the Reader, who in my opi<g ref="char:EOLhyphen"/>nion will eaſily judge, that the honorable perſon could per<g ref="char:EOLhyphen"/>ceive nothing of any new weight to move him to a reply; and I am confident there had been no anſwer return'd, had not the Squires Paſſion led him to Invectives, forreigne to the Argument.</p>
+            <p>The next favour, the honorable perſon receives from the Eſquire; is about that verſe of <hi>Seneca.</hi>
+            </p>
+            <q>Reſerate cluſos Regii Poſtes Laris.</q>
+            <p>And here he will neither allow Him to underſtand a La<g ref="char:EOLhyphen"/>tine word, nor an Engliſh word; Notwithſtanding thoſe Te<g ref="char:EOLhyphen"/>ſtimonies which in both kinds that honourable perſon hath given of himſelfe: but if he had not underſtood the word <hi>Reſero,</hi> nor could have ſpelt, whereby to have ſearch't it in a Dictionary; yet ſince the Eſquire was pleaſed to tell us the Engliſh of it, he might, (had he reſolved to have uſed any modeſty,) have believed it a miſtake ſooner then ſo much Ignorance in any one, as not to underſtand the difference of the words to open and to ſhut. I ſuppoſe therefore in ſtead of wittily Chiding the Printer, he ought to Chide Himſelf; But in one Caſe of the Squires I cannot tell, whether I may aſſume the Liberty to Chide the Printer for a miſtake he committed in the firſt Edition of his <hi>In<g ref="char:EOLhyphen"/>dian Emperour,</hi> in this Excellent Verſe—
+<q>— And follow Fate, that does too faſt purſue.</q>
+               <pb n="6" facs="tcp:52411:5"/>
+which in the ſecond Edition is thus Corrected —
+<q>— And follow Fate, that would too faſt Purſue.</q>
+            </p>
+            <p>There is another Line in his <hi>Aſtraea Redux,</hi> which, be<g ref="char:EOLhyphen"/>cauſe the Squire is ſo ſevere, I will not omit.</p>
+            <q>An horrid ſtillneſs firſt invades the Eare.</q>
+            <p>I have not heard of the like Expreſſion unleſs in a Tale of an Officer, that Commanded a Centinel not to ſtirr a Foot, but walk up and down, and ſee what he could hear. Now whether this firſt Non-ſence be Rectified by the Printer, or by the Squires Encreaſe of Underſtanding, or, where fault the laſt is, I dare not Determine.</p>
+            <p>But, for all this, the Squire need not believe, that the Honourable Perſon can have any Apprehenſion of the exa<g ref="char:EOLhyphen"/>mining any faults of his, ſince his Paſſion guides him ſo ill, as not to diſtinguiſh between a Fault and a Miſtake, if it be believed, that he underſtands a Word of Engliſh; and therefore he is rather Invited to uſe his Freedome: For, 'tis poſſible ſome may Believe in his Promiſe, that may find nothing in his Performance. So, leaving him to his own Liberty, I paſs over his Arguments, not ſeeing any thing in them, that appears (to my Apprehenſion at leaſt) either New or Weighty, but leave them to the Readers better Determination; and proceed to the next marke of his diſ<g ref="char:EOLhyphen"/>pleaſure, which is ſo ill placed, that the Squire is Angry with that Honourable Perſon for Calling the Muſes his long Acquaintance; if he meanes in point of time, that Honourable Perſon is onely a proper Judge, whether the time ſeemed long to him, or noe; but if he meanes he ought to pretend no Acquaintance in the leaſt with them; it is enough to Referr this piece of Anger to thoſe, who have Read his Writings, and among them, the laſt he
+<pb n="7" facs="tcp:52411:5"/>
+obliged the World with, the <hi>Duell of the Staggs,</hi> is a ſuf<g ref="char:EOLhyphen"/>ficient Teſtimony, that the Squire is more angry than he ought to be.</p>
+            <p>The next Charge the Squire is pleaſed to draw up a<g ref="char:EOLhyphen"/>gainſt Him, is about Notions Politick, and Grave, tend<g ref="char:EOLhyphen"/>ing to the Inſtruction of Princes, and Reformation of States: I know not, that the Honourable Perſon ſeems Guilty of any ſuch Deſign in the leaſt, but if the Squire be, as he ſayes he is, for Diſtributive Juſtice, we may juſtly preſume that when his <hi>Indian Emperour</hi> was firſt acted, he intended to inſtruct and reform all Churches in Polemical Divinity, by his admirable Diſpute between a Chriſtian and a Heathen Prieſt; which alſo ſhows how great a loſs the Church had of him, when he was divert<g ref="char:EOLhyphen"/>ed from entering into Orders.</p>
+            <p>Then he quarrels with the Style of that Honourable Perſon (I wiſh he had propoſed him one fit to change for) which he ſays the Criticks have branded with the Name of Obſcurity, and Falſe Grammar: Who theſe Criticks be, he is not pleaſed to tell us, but writes, as he would have preacht, as a certain Author hath it; by which the Squire ſeems to be one of the <hi>Quidams</hi> damn'd at leaſt in <hi>Quevedo</hi>'s <hi>Viſions,</hi> where I leave the Squire to read his farther Deſcription.</p>
+            <p>But in his next ſcolding Paragraph, he is more unhap<g ref="char:EOLhyphen"/>py in his Anger, and quarrels with the Honourable Per<g ref="char:EOLhyphen"/>ſon, for ſaying he was now fettered in Buſineſs of more unpleaſant Natures, which he will have to be State mat<g ref="char:EOLhyphen"/>ters. But the Squire was very much miſtaken, for I by accident once heard that Honourable Perſon complain that two tedious Suits in <hi>Chancery</hi> had almoſt deprived him of the right uſe of any time; and yet I think he need not be aſhamed of thoſe Services he endeavours to do his King and Countrey; ſo that either way the Squires Diſpleaſure is very unjuſtly applied: And above all men, this angry
+<pb n="8" facs="tcp:52411:6"/>
+Squire ought not to be his Interpreter: But his Fortune, and that of the Honourable Perſons are different; for the Squire miſtakingly charges him that the corruption of a Poet, was the generation of a Stateſman; but on the contrary the Squire having been imployed as a Puny Stateſman under his Father a Zealous Committee-man, and Sir <hi>Gilbert Pickering</hi> a crafty Privy Councellour in the late times, it may more properly be applied to the Squire, That the corruption of a Stateſman is the generation of a Poet Laureat.</p>
+            <p>Then he quarrels at the word <hi>Ubi,</hi> had that Honoura<g ref="char:EOLhyphen"/>ble Perſon ſaid <hi>Where,</hi> in Engliſh, the Squire would have been angry too.</p>
+            <p>Then he is diſpleaſed and ſayes that to perform the manner of a thing is New Engliſh, that cannot be helpt; but it is Old Engliſh to every one elſe, ſince, the Proverb is ſo common, That the manner of doing a thing, is as much as the thing it ſelf.</p>
+            <p>Then he ſnaries about the word <hi>Taſte,</hi> which is uſual<g ref="char:EOLhyphen"/>ly applied to any kind of liking: but I ſhould be as rude as he is, to entertain the Reader long with ſuch Vomits of Choler.</p>
+            <p>The next Diſpleaſure he ſhews, is, that the Honoura<g ref="char:EOLhyphen"/>ble Perſon ſayes, <hi>That 'tis not neceſſary for Poets to ſtudy ſtrict Reaſon</hi> (nor good Manners neither, if the Poet Laureat be admitted Preſident) ſince they are ſo uſed to a greater Latitude than is allowed by that ſevere Inquiſition. But he ſayes Moral Truth is the Miſtriſſe of the Poet, as well as of the Philoſopher: Poeſie muſt reſemble Natu<g ref="char:EOLhyphen"/>ral Truth, but it muſt be Ethical; the Poet dreſſes Truth, and adorns Nature, but does not alter them. Theſe are the Squires words, but ſince he does not prove this in the ſame place, I will furniſh the Reader with an exact Proof, written by himſelf in a wonderful Stanza, in his wonder<g ref="char:EOLhyphen"/>ful Poem of the wonderful year 1666. And withall it tells
+<pb n="9" facs="tcp:52411:6"/>
+us how the Fire of <hi>London</hi> was put out, which few Coun<g ref="char:EOLhyphen"/>trey people knew before; the Stanza runs thus:
+<q>
+                  <l>A hollow Chriſtal Pyramid he takes,</l>
+                  <l>In Firmamental Waters dipt above;</l>
+                  <l>With this a broad Extinguiſher he makes,</l>
+                  <l>And hoods the Flames, which to their Quarry ſtrove.</l>
+               </q>
+            </p>
+            <p>Now the Reader may eaſily judge, whether this be not Moral Truth; if this does not reſemble Natural Truth, if it be not Ethical, and if the Squire has not dreſt Truth, and adorned Nature, but not altered them.</p>
+            <p>In the next place he ſayes (with Truth ſtill Annext to his Poetry) that the Honourable Perſon attaques all the Antients, and Moderns, while he fights (as he ſays) un<g ref="char:EOLhyphen"/>der their ample Shields, as little <hi>Teucer</hi> fought under the large Buckler of <hi>Ajax Telamon.</hi> I know not why the ſmall Squire compares himſelf to little <hi>Teucer,</hi> unleſs it be very pleaſant to him to talk of ſuch a ſafe way of fighting: for I never read that the Honourable Perſon blamed the Antients for writing Verſe, but him, or any, that lay down Rules againſt the writing of it. For Verſe could not be thought neereſt Nature by all the Antients, ſince <hi>Sene<g ref="char:EOLhyphen"/>ca</hi> writ all his Tragedies in Verſe, and <hi>Terence</hi> all his Co<g ref="char:EOLhyphen"/>medies, which may be the Squire did not remember, or knew not. Now if Verſe in Tragedy, and Verſe in Co<g ref="char:EOLhyphen"/>medy be both neereſt Nature, the Squire deſerves his Lawrel.</p>
+            <p>But now the Squire begins to be more kind, and offers the Honourable Perſon his Help in a Logical way, and makes a Syllogiſme for him, which is, if one Stage can<g ref="char:EOLhyphen"/>not properly preſent two Rooms or Houſes, much leſs two Countreys or Kingdoms, then there can be no unity of place: but one Stage cannot properly perform this, therefore there can be no unity of place: And then he de<g ref="char:EOLhyphen"/>nies
+<pb n="10" facs="tcp:52411:7"/>
+that which he calls his Minor Propoſition. But what needs the Squire make a Syllogiſme for another, who has no reaſon to like it. Being pleaſed to repeat that which is more truly the ſenſe of the Honourable Perſon, which is, that a Stage being one place cannot be two, I think this is true, and therefore can as little be two Houſes as two Countries. But the Squire ſays it may repreſent two Rooms ſucceſſively, ſo it may two Kingdomes. This Bog he labours to get out of, and I appeal to the Reader, whether he ſticks or no. I was going to charge this Noti<g ref="char:EOLhyphen"/>on on his Fancy, but a little after he ſays, that Fancy and Reaſon go hand in hand, the firſt cannot leave the laſt be<g ref="char:EOLhyphen"/>hind. If this be true, the Squire has ſalved all the Er<g ref="char:EOLhyphen"/>rors of fantaſtical people, together with his own. But I doubt that Fancy and Reaſon are not ſo good Friends, and if the Squire had kept them cloſer together, we ſhould have believed better of their Friendſhips.</p>
+            <p>The Squire is then pleaſed to Confeſs that the leſſer cannot Comprehend the Greater: yet in a little Glaſs a whole Room and many peſons may be repreſented, or ſeen: ſo may a Country be ſeen out of a little hole of a Window, but the Room cannot get into the Glaſs, nor the Country into the Hole. But the <hi>Honourable Perſon</hi> ſpoke not of what may ſeem repreſented, but of what really could be; and then inſerted there could be no ſuch thing as they pre<g ref="char:EOLhyphen"/>tend to imitate, which was to come neereſt to the Nature of that which could not be at all.</p>
+            <p>But immediately he appears as unhappy in his Philoſo<g ref="char:EOLhyphen"/>phy as in his Logick. When the Honourable Perſon on<g ref="char:EOLhyphen"/>ly ſpeaks of things abſolutely impoſſibile; the Squire talks of that which is onely ſo <hi>ex parte,</hi> and then would make it no Impoſſibility, by the help of the Firſt mover to alter the Nature of it. When by the help of the Squire (who is the firſt mover of ſuch Phyloſophy) the nature of things are ſo altered thot two can be one, the Squire is triumphant, till then 'tis ſubmitted to the Reader.</p>
+            <p>
+               <pb n="11" facs="tcp:52411:7"/>But now he ſayes the Honourable Perſon is to be Excu<g ref="char:EOLhyphen"/>ſed for declaring againſt the Unity of Time, being a perſon Intereſſed, for the time of the Play of the <hi>Duke</hi> of <hi>Lerma</hi> contained many years; if this be true, he is not to be bla<g ref="char:EOLhyphen"/>med; for by his favour he writ againſt that which is impoſ<g ref="char:EOLhyphen"/>ſible to be made a Rule, not againſt any time ſhorter, or lon<g ref="char:EOLhyphen"/>ger uſed by any one. But if he had Argued according to what he writ, ſure 'tis more Ingenuous, than for the Squire, who ſo pleads for the Unity of time to write the <hi>Indian Emperour,</hi> which contains the time of <hi>Cortez</hi> his landing to the Death of <hi>Montezuma;</hi> let him conſider this, and it will appear, he ought to be more diſpleaſed with his own Diſingenuity.</p>
+            <p>And now comming to aſſault the Honourable Perſon, when he ſayes he grows feeble, (which is the moſt ſeaſon<g ref="char:EOLhyphen"/>able time for the Squire to attacque any one in) he ſayes according to his uſual Cuſtom, that the Honourable Perſon improves his obſervation to an Argument, that he might have the glory to Confute it. But it appears on the con<g ref="char:EOLhyphen"/>trary by his ſlighting of him, that the Honourable Perſon apprehends no glory in confuting any Argument of his: And on the other ſide, I believe he never thought any ob<g ref="char:EOLhyphen"/>ſervation of the Squires worthy to be drawn into an Argu<g ref="char:EOLhyphen"/>ment, and accordingly, the Honorable Perſon called it an Argument, or Obſervation being it ſeems as unable, as others are to know juſtly what Name or Title to fix on ſuch a po<g ref="char:EOLhyphen"/>ſitive Theſis.</p>
+            <p>But now the ſtorm ceaſes, and the Illuſtrious Squire is pleaſed to ſhine with more gentle beams on the Honoura<g ref="char:EOLhyphen"/>ble Perſon; and fawningly ſayes, he laies all at his feet, and Honours his Perſon, and Parts. The Squire muſt needs be believed, ſince he has endeavored to deſcribe him to be the owner of ſuch Excellent ones. He ſayes, he has often im<g ref="char:EOLhyphen"/>ployed his Pen in his Commendations, I hope he means this Time for one. He Adds then, He has many particu<g ref="char:EOLhyphen"/>lar
+<pb n="12" facs="tcp:52411:8"/>
+obligations to him. In this the Squire is like to be cre<g ref="char:EOLhyphen"/>dited, ſince this Return he has made, is ſo grateful a Teſti<g ref="char:EOLhyphen"/>mony of it; yet at the laſt the Squire is pleaſed to give him the Title of a Noble opponent; and to this laſt I am confident he will Receive a juſt return from the Honourable Perſon, when ever the Squire pleaſes to give him cauſe to call him ſo. In the mean time, I believe the Squire cannot reaſonably expect it from him, ſince I have heard from a ve<g ref="char:EOLhyphen"/>ry brave Gentleman, who was lately engaged to waite upon the Squire, that his cold Anſwer has diſcouraged the Honourable Perſon from ſuch an Expectation.</p>
+            <p>Thus, Sir, I have Travelled through this foul way, and have Preſerved my ſelf as clean as poſſibly I could; yet it was ſo dirty, that ſome Teſtimony of ſuch a Paſſage muſt needs ſtick to any that goes thorow it. But, Sir, if I have done like a good Scavenger, and carrried the Filth back to himſelf the proper Layſtall I doubt not but to Receive from you and all other Juſt perſons, the opinion that I love Ju<g ref="char:EOLhyphen"/>ſtice, and good manners, which, I hope, will render me not unworthy of the Title of</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your faithful and humble Servant R. F.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="13" facs="tcp:52411:8"/>
+            <head>Poſtſcript.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>SInce I had writ this Letter to you, I happened to meet a Gentleman, who diſcourſing with me about this Ar<g ref="char:EOLhyphen"/>gument, told me he could ſhow me in a Copy of verſes of one of the moſt Excellent Perſons of our time, this Que<g ref="char:EOLhyphen"/>ſtion Decided with as clear Generoſity as Reaſon. I beg<g ref="char:EOLhyphen"/>ged him to do me the favour, and he immediately ſhew<g ref="char:EOLhyphen"/>ed me the Prologue of the Earl of <hi>Orrery</hi> to his Play of <hi>Henry the fifth.</hi> I read it with that content, that I could not but inſert it as an Exact Deciſion of the Argument.</p>
+         </div>
+         <div type="prologue">
+            <head>THE PROLOGUE.</head>
+            <l>WE have with Forraign Tales ſo fill'd your Ears,</l>
+            <l>As if our Poets were all Foreigners;</l>
+            <l>This Author begs you'l lend him but two hours,</l>
+            <l>To entertain you with your Anceſtours.</l>
+            <l>He thinks no ſtories merit to be known,</l>
+            <l>Nor can inſtruct us better than our own.</l>
+            <l>But look not for great Actions in a Play,</l>
+            <l>Contracted to the limits of a Day.</l>
+            <l>Nor where the Scene is to one place confin'd,</l>
+            <l>To thoſe ſtrict Rules the French their Poets bind:</l>
+            <l>Yet none of them for this a Reaſon ſhows,</l>
+            <l>But to their Mode of Writing, as of Cloths,</l>
+            <l>
+               <pb n="14" facs="tcp:52411:9"/>They think the Engliſh ever ſhould agree;</l>
+            <l>Well, when ſome wit of theirs will let us ſee,</l>
+            <l>Why in two hours they on their Stages play</l>
+            <l>That which preſents the Turns of a whole day;</l>
+            <l>Our Poet then will make it full as clear,</l>
+            <l>That in two hours he may include a year.</l>
+            <l>It were not fit, in ſtories of that Age,</l>
+            <l>When we rul'd <hi>France,</hi> French Laws ſhould rule our Stage.</l>
+            <l>Nor is it juſt in Poetry to bind</l>
+            <l>Fancy, which is tormented, when confin'd.</l>
+            <l>He hopes you will excuſe him, if he ſtrives</l>
+            <l>To break thoſe Laws a Forreign Nation gives.</l>
+            <l>For ſure, without your leave, he'l nere ſubmit,</l>
+            <l>That thoſe whom our Swords rul'd, ſhould rule our wit.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
